@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://www.kaggle.com/code/hassanjameelahmed/world-corn-market-analysis-1975-2026" target="_blank">
+    <img src="Global Corn Supply and Demand.png" alt="Global Corn Supply and Demand" width="800">
+  </a>
+</p>
+
 [project.md](https://github.com/user-attachments/files/24931100/project.md)
 # 🌽 Global Corn Supply & Demand Master Analysis (1975-2026)
 
